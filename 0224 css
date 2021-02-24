@@ -1,0 +1,14 @@
+.color {
+  color:bisque;
+
+}
+
+h3 {
+  color: rosybrown;
+}
+
+
+
+
+/*  css 주석  */
+/* id > class > type 우선순위 */
