@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="EUC-KR" /> 
+  <meta name="description" content="Web Tutorial">
+ <meta name="keywords" content="HTML, CSS">
+ <meta name="author" content="inkwon">
+	 <title>웹 프로그래밍 기초 </title>
+
+<link href = "css/style.css" rel = "stylesheet"
+type="text/css" />
+
+
+
+</head>
+<body>
+  <h3 style ="color:pink;" 
+  id= "color" class="color">Welcom to CSS</h3>
+
+</body>
+</html>
+
+
+
+	
+<!-- 
+  id = "이름"는 이름을 지어주어서 그것만 작동하게, css에서는 #이름해서 설정>
