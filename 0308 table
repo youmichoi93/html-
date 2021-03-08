@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <table border=1>
+      <tr><td>모니터
+        하나 더 </td><td>있으면 좋겠다.</td><td>화면이 너무 작아</td></tr>
+      <tr><td>눈이 아프다.<td>모니터 두 개 가지고 </td></td><td>있는 사람이 부럽다.</td></tr>
+      
+
+    </table>
+
+
+
+
+
+  </body>
+</html>
